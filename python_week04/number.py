@@ -1,4 +1,3 @@
-
 def sum_number(nums):
     NS = sum(nums)
     NAV = sum(nums)/len(nums)
